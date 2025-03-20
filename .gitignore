@@ -126,3 +126,5 @@ temp_*/
 # srun
 *.out
 batchscript-*
+
+demo/.cog
