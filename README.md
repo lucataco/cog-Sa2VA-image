@@ -13,6 +13,8 @@
 
 ![Teaser](assets/images/teaser.jpg)
 
+- [x] Cog Fast Push Compatible
+
 ## Opensource progress
 
 - [ ] Release Qwen-VL models. (To be done)
